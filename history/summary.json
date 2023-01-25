@@ -24,9 +24,9 @@
     "url": "https://lego.abakus.no/health",
     "icon": "https://icons.duckduckgo.com/ip3/lego.abakus.no.ico",
     "slug": "lego-abakus-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -36,6 +36,7 @@
     "timeMonth": 821,
     "timeYear": 821,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-14": 13
     }
   },
