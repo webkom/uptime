@@ -4,18 +4,19 @@
     "url": "https://abakus.no/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/abakus.no.ico",
     "slug": "abakus-no",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 448,
-    "timeDay": 420,
-    "timeWeek": 397,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 1105,
+    "timeDay": 9306,
+    "timeWeek": 2622,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {
+      "2023-01-30": 1,
       "2023-01-14": 13
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://lego.abakus.no/health",
     "icon": "https://icons.duckduckgo.com/ip3/lego.abakus.no.ico",
     "slug": "lego-abakus-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -36,6 +37,7 @@
     "timeMonth": 812,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2023-01-30": 0,
       "2023-01-25": 20,
       "2023-01-14": 13
     }
