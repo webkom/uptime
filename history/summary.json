@@ -58,9 +58,9 @@
     "url": "https://wiki.abakus.no/status",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.abakus.no.ico",
     "slug": "abakus-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 545,
     "timeMonth": 536,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   }
 ]
