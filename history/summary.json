@@ -58,19 +58,19 @@
     "url": "https://wiki.abakus.no/status",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.abakus.no.ico",
     "slug": "abakus-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "82.09%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.87%",
     "time": 516,
-    "timeDay": 579,
-    "timeWeek": 545,
-    "timeMonth": 536,
+    "timeDay": 546,
+    "timeWeek": 541,
+    "timeMonth": 534,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-05-23": 0
+      "2023-05-23": 258
     }
   }
 ]
