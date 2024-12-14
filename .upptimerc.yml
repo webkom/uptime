@@ -1,6 +1,17 @@
 owner: webkom
 repo: uptime
 
+workflowVersion: "2"
+workflowsSource: workflows
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 sites:
   - name: Abakus.no
     url: https://abakus.no/healthz
