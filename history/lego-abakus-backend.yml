@@ -1,7 +1,7 @@
 url: https://lego.abakus.no/health
-status: degraded
-code: 200
-responseTime: 15622
-lastUpdated: 2025-03-19T23:04:45.790Z
+status: down
+code: 500
+responseTime: 565
+lastUpdated: 2025-03-20T08:31:31.898Z
 startTime: 2023-01-06T16:34:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
