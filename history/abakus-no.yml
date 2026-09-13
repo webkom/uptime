@@ -1,7 +1,7 @@
 url: https://abakus.no/healthz
-status: down
-code: 500
-responseTime: 9397
-lastUpdated: 2026-09-13T23:07:35.554Z
+status: up
+code: 200
+responseTime: 477
+lastUpdated: 2026-09-13T23:12:21.374Z
 startTime: 2023-01-06T16:34:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
