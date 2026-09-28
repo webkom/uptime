@@ -4,16 +4,16 @@
     "url": "https://abakus.no/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/abakus.no.ico",
     "slug": "abakus-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 562,
-    "timeDay": 561,
+    "timeDay": 537,
     "timeWeek": 489,
-    "timeMonth": 733,
+    "timeMonth": 726,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2025-10-31": 19,
@@ -28,7 +28,7 @@
       "2026-07-22": 41,
       "2026-08-15": 15,
       "2026-09-03": 30,
-      "2026-09-28": 0
+      "2026-09-28": 16
     }
   },
   {
@@ -36,17 +36,17 @@
     "url": "https://lego.abakus.no/health",
     "icon": "https://icons.duckduckgo.com/ip3/lego.abakus.no.ico",
     "slug": "lego-abakus-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "91.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.86%",
-    "time": 1046,
-    "timeDay": 824,
-    "timeWeek": 1163,
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.85%",
+    "time": 1047,
+    "timeDay": 946,
+    "timeWeek": 1166,
     "timeMonth": 1195,
-    "timeYear": 1025,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2025-10-20": 42,
       "2025-10-31": 19,
@@ -63,7 +63,7 @@
       "2026-07-22": 36,
       "2026-08-15": 15,
       "2026-09-03": 30,
-      "2026-09-28": 0
+      "2026-09-28": 15
     }
   },
   {
