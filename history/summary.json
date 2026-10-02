@@ -38,17 +38,17 @@
     "url": "https://lego.abakus.no/health",
     "icon": "https://icons.duckduckgo.com/ip3/lego.abakus.no.ico",
     "slug": "lego-abakus-backend",
-    "status": "degraded",
+    "status": "down",
     "uptime": "91.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.84%",
-    "time": 1087,
-    "timeDay": 11063,
-    "timeWeek": 2938,
-    "timeMonth": 1708,
-    "timeYear": 1078,
+    "time": 1086,
+    "timeDay": 7681,
+    "timeWeek": 2769,
+    "timeMonth": 1687,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-10-20": 42,
       "2025-10-31": 19,
@@ -68,7 +68,7 @@
       "2026-09-28": 15,
       "2026-09-30": 23,
       "2026-10-01": 23,
-      "2026-10-02": 0
+      "2026-10-02": 10
     }
   },
   {
