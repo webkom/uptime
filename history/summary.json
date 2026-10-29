@@ -6,9 +6,9 @@
     "slug": "abakus-no",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 560,
     "timeDay": 405,
@@ -30,8 +30,7 @@
       "2026-09-03": 30,
       "2026-09-28": 16,
       "2026-09-30": 23,
-      "2026-10-01": 24,
-      "2026-10-29": 8
+      "2026-10-01": 24
     }
   },
   {
@@ -41,9 +40,9 @@
     "slug": "lego-abakus-backend",
     "status": "up",
     "uptime": "92.12%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.84%",
     "time": 1098,
     "timeDay": 937,
@@ -69,8 +68,7 @@
       "2026-09-30": 23,
       "2026-10-01": 23,
       "2026-10-03": 53,
-      "2026-10-02": 29,
-      "2026-10-29": 8
+      "2026-10-02": 29
     }
   },
   {
@@ -78,17 +76,17 @@
     "url": "https://wiki.abakus.no/status",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.abakus.no.ico",
     "slug": "abakus-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 558,
-    "timeDay": 454,
-    "timeWeek": 563,
-    "timeMonth": 528,
-    "timeYear": 563,
+    "time": 598,
+    "timeDay": 10148,
+    "timeWeek": 2972,
+    "timeMonth": 1151,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-11-18": 77,
       "2025-11-26": 38,
@@ -98,7 +96,8 @@
       "2026-03-24": 46,
       "2026-04-09": 29,
       "2026-04-10": 23,
-      "2026-05-21": 59
+      "2026-05-21": 59,
+      "2026-10-29": 0
     }
   }
 ]
