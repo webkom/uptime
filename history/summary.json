@@ -4,9 +4,9 @@
     "url": "https://abakus.no/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/abakus.no.ico",
     "slug": "abakus-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -30,7 +30,8 @@
       "2026-09-03": 30,
       "2026-09-28": 16,
       "2026-09-30": 23,
-      "2026-10-01": 24
+      "2026-10-01": 24,
+      "2026-10-30": 0
     }
   },
   {
@@ -38,13 +39,13 @@
     "url": "https://lego.abakus.no/health",
     "icon": "https://icons.duckduckgo.com/ip3/lego.abakus.no.ico",
     "slug": "lego-abakus-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "92.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.84%",
-    "time": 1098,
+    "time": 1099,
     "timeDay": 981,
     "timeWeek": 1071,
     "timeMonth": 1659,
@@ -68,7 +69,8 @@
       "2026-09-30": 23,
       "2026-10-01": 23,
       "2026-10-03": 53,
-      "2026-10-02": 29
+      "2026-10-02": 29,
+      "2026-10-30": 0
     }
   },
   {
