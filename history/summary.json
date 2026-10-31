@@ -6,17 +6,16 @@
     "slug": "abakus-no",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 560,
-    "timeDay": 460,
-    "timeWeek": 440,
-    "timeMonth": 458,
+    "timeDay": 439,
+    "timeWeek": 442,
+    "timeMonth": 457,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-10-31": 19,
       "2025-11-05": 19,
       "2025-12-07": 48,
       "2026-02-27": 20,
@@ -30,8 +29,7 @@
       "2026-09-03": 30,
       "2026-09-28": 16,
       "2026-09-30": 23,
-      "2026-10-01": 24,
-      "2026-10-30": 10
+      "2026-10-01": 24
     }
   },
   {
@@ -41,17 +39,16 @@
     "slug": "lego-abakus-backend",
     "status": "up",
     "uptime": "92.12%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.84%",
     "time": 1099,
-    "timeDay": 995,
-    "timeWeek": 1066,
-    "timeMonth": 1641,
-    "timeYear": 1091,
+    "timeDay": 1079,
+    "timeWeek": 1069,
+    "timeMonth": 1627,
+    "timeYear": 1092,
     "dailyMinutesDown": {
-      "2025-10-31": 19,
       "2025-11-05": 20,
       "2025-12-07": 48,
       "2026-01-19": 49,
@@ -69,8 +66,7 @@
       "2026-09-30": 23,
       "2026-10-01": 23,
       "2026-10-03": 53,
-      "2026-10-02": 29,
-      "2026-10-30": 10
+      "2026-10-02": 29
     }
   },
   {
@@ -85,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 597,
-    "timeDay": 7006,
-    "timeWeek": 2710,
-    "timeMonth": 1134,
+    "timeDay": 503,
+    "timeWeek": 2706,
+    "timeMonth": 1115,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-11-18": 77,
