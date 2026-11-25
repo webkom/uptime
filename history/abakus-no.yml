@@ -1,7 +1,7 @@
 url: https://abakus.no/healthz
-status: up
+status: degraded
 code: 200
-responseTime: 9867
-lastUpdated: 2026-11-25T02:29:47.552Z
+responseTime: 10779
+lastUpdated: 2026-11-25T02:47:08.827Z
 startTime: 2023-01-06T16:34:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
